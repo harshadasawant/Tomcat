@@ -1,3 +1,5 @@
+create database as training
+and create below table
 create table users (
  id  int(3) NOT NULL AUTO_INCREMENT,
  name varchar(120) NOT NULL,
